@@ -35,7 +35,7 @@ public class DefaultMethod {
         System.out.println(new Chinese() {
             @Override
             public String speak() {
-                return null;
+                return "讲普通话";
             }
         });
     }
