@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tao/Comparator/ComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/Comparator/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/DefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/DefaultMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/FileFilter/FileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/FileServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/FileFilter/FileServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/GreetingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/GreetingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Runnable/RunnableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FileFilterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FileFilterServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/create.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582378668361</updated>
       <workItem from="1582378669835" duration="1154000" />
-      <workItem from="1582381660540" duration="10507000" />
+      <workItem from="1582381660540" duration="11846000" />
     </task>
     <servers />
   </component>
