@@ -1,4 +1,6 @@
-package Tao;
+package Tao.FileFilter;
+
+import Tao.FileFilter.FileService;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -23,5 +25,5 @@ public class FileServiceTest {
         };
         fileService.setFileName(".txt");
     }
-    
+
 }

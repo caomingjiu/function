@@ -1,4 +1,4 @@
-package Tao;
+package Tao.Example;
 
 /**
  * @author Tao

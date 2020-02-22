@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tao/Comparator/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tao/Comparator/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/RunnableService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/RunnableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zeng/callable/CallableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeng/callable/CallableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/DefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/DefaultMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/FileFilter/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/FileServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/FileFilter/FileServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/GreetingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Runnable/RunnableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +59,31 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.RunnableTest">
-    <configuration name="DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tao.DefaultMethod" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tao.Comparator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComparatorTest">
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tao.Comparator.ComparatorTest" />
       <module name="function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tao.*" />
+          <option name="PATTERN" value="Tao.Comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tao.Example.DefaultMethod" />
+      <module name="function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tao.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="FileServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tao.FileServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="Tao.FileFilter.FileServiceTest" />
       <module name="function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tao.*" />
+          <option name="PATTERN" value="Tao.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="GreetingServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tao.GreetingServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="Tao.Example.GreetingServiceTest" />
       <module name="function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tao.*" />
+          <option name="PATTERN" value="Tao.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,24 +118,11 @@
       </method>
     </configuration>
     <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tao.RunnableTest" />
+      <option name="MAIN_CLASS_NAME" value="Tao.Runnable.RunnableTest" />
       <module name="function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="create" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.create" />
-      <module name="function" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="Tao.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorTest" />
         <item itemvalue="Application.RunnableTest" />
         <item itemvalue="Application.FileServiceTest" />
         <item itemvalue="Application.DefaultMethod" />
         <item itemvalue="Application.GreetingServiceTest" />
-        <item itemvalue="Application.create" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582378668361</updated>
       <workItem from="1582378669835" duration="1154000" />
-      <workItem from="1582381660540" duration="9694000" />
+      <workItem from="1582381660540" duration="10507000" />
     </task>
     <servers />
   </component>
@@ -178,30 +188,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="722" y="183" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1582395466935" />
-    <state x="1085" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1582387386266">
+    <state x="1041" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1582396187773">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="1085" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582387386266" />
+    <state x="1041" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582396187773" />
     <state x="492" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582395353806">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="492" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582395353806" />
-    <state width="1493" height="419" key="GridCell.Tab.0.bottom" timestamp="1582395495874">
+    <state width="1493" height="419" key="GridCell.Tab.0.bottom" timestamp="1582396470135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="419" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582395495874" />
-    <state width="1493" height="419" key="GridCell.Tab.0.center" timestamp="1582395495874">
+    <state width="1493" height="419" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582396470135" />
+    <state width="1493" height="419" key="GridCell.Tab.0.center" timestamp="1582396470135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="419" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582395495874" />
-    <state width="1493" height="419" key="GridCell.Tab.0.left" timestamp="1582395495874">
+    <state width="1493" height="419" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582396470135" />
+    <state width="1493" height="419" key="GridCell.Tab.0.left" timestamp="1582396470135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="419" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582395495874" />
-    <state width="1493" height="419" key="GridCell.Tab.0.right" timestamp="1582395495874">
+    <state width="1493" height="419" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582396470135" />
+    <state width="1493" height="419" key="GridCell.Tab.0.right" timestamp="1582396470135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="419" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582395495874" />
+    <state width="1493" height="419" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582396470135" />
     <state x="349" y="167" key="IDE.errors.dialog" timestamp="1582383236634">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

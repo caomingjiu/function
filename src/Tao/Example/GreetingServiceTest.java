@@ -1,8 +1,8 @@
-package Tao;
+package Tao.Example;
 
 public class GreetingServiceTest {
     public static void main(String[] args) {
-        GreetingService greetingService = (message,age) -> {
+        GreetingService greetingService = (message, age) -> {
             System.out.println(age + "岁的人,问好:" + message);
             System.out.println(message.substring(2));
         };
