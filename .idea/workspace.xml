@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tao/DefaultMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/GreetingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582378668361</updated>
       <workItem from="1582378669835" duration="1154000" />
-      <workItem from="1582381660540" duration="906000" />
+      <workItem from="1582381660540" duration="1530000" />
     </task>
     <servers />
   </component>
@@ -144,5 +141,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582382607593" />
+    <state x="815" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1582382652939">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="815" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582382652939" />
   </component>
 </project>
