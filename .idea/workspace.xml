@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/FileFilterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/FileFilterServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tao/DefaultMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/create.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/create.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,11 @@
   </component>
   <component name="ProjectId" id="1YAHqR1Okki8SzfA3keD5QkwU8T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -102,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582378668361</updated>
       <workItem from="1582378669835" duration="1154000" />
+      <workItem from="1582381660540" duration="906000" />
     </task>
     <servers />
   </component>
@@ -122,6 +124,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1085" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1582382357559">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1085" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582382357559" />
     <state width="1478" height="199" key="GridCell.Tab.0.bottom" timestamp="1582381615490">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
