@@ -10,6 +10,7 @@ import java.util.concurrent.Callable;
  * @Version 1.0
  **/
 public class CallableImpl implements Callable {
+
     private String name;
 
     public CallableImpl(String name) {
