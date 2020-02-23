@@ -38,6 +38,36 @@
   * 5
   ```BinaryOperator<Long> addExplicit = (Long x, Long y) -> x + y;```<br>
   如➎所示。记住一点很重要，Lambda 表达式都可以扩写为原始的“匿名类”形式。所以当你觉得这个 Lambda 表达式很复杂不容易理解的时候，不妨把它扩写为“匿名类”形式来看。
+  ##典型的函数式编程语言
+   #纯函数式编程语言
+      纯函数式编程语言通常不允许直接使用程序状态以及易变对象
+   #强静态类型
+   Concurrent Clean
+   Haskell
+   Miranda
+   #弱类型
+   Lazy K
+   #非纯函数式编程语言
+     #强静态类型
+   F#
+   ML
+   OCaml
+   Scala
+    #静态类型
+   Typed Racket
+    #强动态类型
+   Scheme
+   Racket
+   Clojure
+   Lisp
+   Erlang
+   LOGO
+   Mathematica
+   R
+   #弱类型
+   Unlambda
+   #其他函数式编程语言
+   APL语言 XSLT
 ##小组合作作业分工
     管江宇：1.说明分工的MEADME.md文件
            2.思维导图
