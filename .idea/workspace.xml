@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/out/production/function/CMJ/Test1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/function/CMJ/WorldList.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/function/CMJ/Wrold.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/function/Guan/README.md" afterDir="false" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< Updated upstream
+    <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="Merge branch 'master' of github.com:caomingjiu/function&#10;&#10;# Conflicts:&#10;#&#9;out/production/function/META-INF/function.kotlin_module">
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Comparator/ComparatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Comparator/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod$GuangDong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod$Mayun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/GreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/FileFilter/FileService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/FileFilter/FileServiceTest$1MyFileter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/FileFilter/FileServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Runnable/RunnableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/hyj/GreatingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/hyj/GreetingServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/demo/GreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/demo/GreetingServiceTest.class" afterDir="false" />
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
       <change afterPath="$PROJECT_DIR$/src/CMJ/Test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CMJ/WorldList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CMJ/Wrold.java" afterDir="false" />
@@ -15,7 +41,27 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/function/Tao/Example/StudentInfo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/function/Tao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/function/Tao/README.md" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableTest.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/function/test/FileFilterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/function/test/FileFilterServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/function/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/function/test/create.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/DefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/DefaultMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/GreetingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/Example/GreetingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tao/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FileFilterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FileFilterServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/create.java" beforeDir="false" />
+=======
+    <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> 9a9a7be0d2832e19a5b687f67a7fd341c4ad3617
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +115,7 @@
       <recent name="Tao.Comparator" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.GreetingServiceTest">
     <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zeng.callable.CallableTest" />
@@ -78,10 +125,45 @@
           <option name="PATTERN" value="zeng.callable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="FilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hyj.filter.FilterTest" />
+      <module name="function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hyj.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+      <option name="MAIN_CLASS_NAME" value="Tao.Comparator.ComparatorTest" />
+      <module name="function" />
+      <extension name="coverage">
+          <pattern>
+              <option name="PATTERN" value="Tao.Comparator.*" />
+              <option name="ENABLED" value="true" />
+          </pattern>
+>>>>>>> 9a9a7be0d2832e19a5b687f67a7fd341c4ad3617
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+<<<<<<< HEAD
     </configuration>
     <configuration name="GreetingServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hyj.GreetingServiceTest" />
@@ -89,6 +171,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hyj.*" />
+=======
+<<<<<<< HEAD
+    </configuration>
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CMJ.SortList" />
+=======
+      <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tao.Runnable.RunnableTest" />
+>>>>>>> 9a9a7be0d2832e19a5b687f67a7fd341c4ad3617
+      <module name="function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CMJ.*" />
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +192,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tao.Runnable.RunnableTest" />
       <module name="function" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tao.Runnable.*" />
+=======
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hyj.stream.Test" />
+      <module name="function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hyj.filter.*" />
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +242,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.GreetingServiceTest" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.WorldList" />
         <item itemvalue="Application.CallableTest" />
         <item itemvalue="Application.RunnableTest" />
+=======
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FilterTest" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.WorldList" />
+        <item itemvalue="Application.SortList" />
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +317,7 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="492" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582395353806" />
+<<<<<<< HEAD
     <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1582441617797">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -220,10 +334,40 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582441617797" />
+=======
+    <state width="1237" height="155" key="GridCell.Tab.0.bottom" timestamp="1582439330696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582439330696" />
+    <state width="1493" height="419" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582396476979" />
+    <state width="1237" height="155" key="GridCell.Tab.0.center" timestamp="1582439330696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+<<<<<<< HEAD
+    <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582439330696" />
+=======
+<<<<<<< Updated upstream
+>>>>>>> 9a9a7be0d2832e19a5b687f67a7fd341c4ad3617
+    <state width="1493" height="419" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582396476979" />
+    <state width="1237" height="155" key="GridCell.Tab.0.left" timestamp="1582439330696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582439330696" />
+    <state width="1493" height="419" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582396476979" />
+    <state width="1237" height="155" key="GridCell.Tab.0.right" timestamp="1582439330696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582439330696" />
+    <state width="1493" height="419" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582396476979" />
+>>>>>>> 06b368efd5c00ed63a00b45805bcf747c63cf5c5
     <state x="349" y="167" key="IDE.errors.dialog" timestamp="1582383236634">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1582383236634" />
+    <state x="0" y="0" width="773" height="680" key="find.popup" timestamp="1582436114842">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="773" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1582436114842" />
     <state x="815" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1582382652939">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
