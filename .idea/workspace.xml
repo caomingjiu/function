@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/function/hyj/stream/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/hyj/stream/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyj/filter/FilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyj/stream/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/function/META-INF/function.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/function/META-INF/function.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableImpl.class" beforeDir="false" />
-    </list>
+    <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +54,7 @@
       <recent name="Tao.Comparator" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="FilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hyj.filter.FilterTest" />
       <module name="function" />
@@ -130,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FilterTest" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FilterTest" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.WorldList" />
         <item itemvalue="Application.SortList" />
