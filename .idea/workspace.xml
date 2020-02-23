@@ -7,37 +7,8 @@
 =======
 <<<<<<< Updated upstream
     <list default="true" id="7872246b-58c4-45a7-b890-9b788920b1e0" name="Default Changelist" comment="Merge branch 'master' of github.com:caomingjiu/function&#10;&#10;# Conflicts:&#10;#&#9;out/production/function/META-INF/function.kotlin_module">
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Comparator/ComparatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Comparator/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod$GuangDong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod$Mayun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/DefaultMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Example/GreetingService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/FileFilter/FileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/FileFilter/FileServiceTest$1MyFileter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/FileFilter/FileServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/Tao/Runnable/RunnableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/hyj/GreatingService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/hyj/GreetingServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/callable/CallableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/demo/GreetingService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/function/zeng/demo/GreetingServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CMJ/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CMJ/WorldList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CMJ/Wrold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/Comparator/ComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/Comparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/FileFilter/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/FileFilter/FileServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tao/Runnable/RunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyj/GreatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyj/GreetingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zeng/callable/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zeng/demo/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zeng/demo/GreetingServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/out/production/function/CMJ/ConsumerDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/function/CMJ/Function.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/function/CMJ/FunctionDemo$1.class" beforeDir="false" />
@@ -71,6 +42,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> Stashed changes
 >>>>>>> 9a9a7be0d2832e19a5b687f67a7fd341c4ad3617
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
