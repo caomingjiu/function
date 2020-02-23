@@ -68,17 +68,30 @@
    Unlambda
    #其他函数式编程语言
    APL语言 XSLT
-##小组合作作业分工
-    管江宇：1.说明分工的MEADME.md文件
+ 管江宇：1.MEADME.md文件合作编写
            2.思维导图
+           3.思维导图-函数式编程
 ---
-    陶永新&曾传志：从文档里提供的JDK8之前就存在的函数式接口中选做
+    陶永新：1.MEADME.md文件合作编写
+           2.照着老师的demo练习并手写
+           3.完成JDK8之前就存在的函数式接口中：Runnable、FileFilter、Comparator
 ---
-    曹暝桕&侯粤嘉：从Stream/Function/Optional/Consumer中选做
+    曾传志：1.MEADME.md文件合作编写
+           2.照着老师的demo练习并手写
+           3.完成JDK8之前就存在的函数式接口中：Callable
 ---
-    全体：从Stream/Function/Optional/Consumer中选做
-###思维导图
-![图片](https://uploader.shimo.im/f/kS2XwlBmkUMdqiap.jpg!thumbnail)
+    曹暝桕：1.MEADME.md文件合作编写
+           2.照着老师的demo练习并手写
+           3.了解JDK8中java.util.function包中新增加的函数式编程接口，
+           如使用stream的操作实现从大量单词中过滤出前5个最长的单词的功能，
+           也可以结合自己理解实现其他相应的功能。
+---
+    侯粤嘉：1.MEADME.md文件合作编写
+           2.照着老师的demo练习并手写
+           3.了解JDK8中java.util.function包中新增加的函数式编程接口
+---
+###思维导图-分工图
+![图片](https://uploader.shimo.im/f/DqI1ad5vOX4nrbBr.png!thumbnail)
 
 ---
 ###代码及手抄图
