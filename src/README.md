@@ -38,3 +38,54 @@
   * 5
   ```BinaryOperator<Long> addExplicit = (Long x, Long y) -> x + y;```<br>
   如➎所示。记住一点很重要，Lambda 表达式都可以扩写为原始的“匿名类”形式。所以当你觉得这个 Lambda 表达式很复杂不容易理解的时候，不妨把它扩写为“匿名类”形式来看。
+##小组合作作业分工
+    管江宇：1.说明分工的MEADME.md文件
+           2.思维导图
+---
+    陶永新&曾传志：从文档里提供的JDK8之前就存在的函数式接口中选做
+---
+    曹暝桕&侯粤嘉：从Stream/Function/Optional/Consumer中选做
+---
+    全体：从Stream/Function/Optional/Consumer中选做
+###思维导图
+![图片](https://uploader.shimo.im/f/kS2XwlBmkUMdqiap.jpg!thumbnail)
+
+---
+###代码及手抄图
+    陶永新：
+![图片](https://uploader.shimo.im/f/t0orbo95g2gBbuS1.png!thumbnail)
+![图片](https://uploader.shimo.im/f/ZQKgsHw0p04geozu.png!thumbnail)
+![图片](https://uploader.shimo.im/f/rYjJaVv4CV4Tv7eQ.png!thumbnail)
+---
+![图片](https://uploader.shimo.im/f/Y4BKdXMU37QI2hVH.png!thumbnail)
+![图片](https://uploader.shimo.im/f/MSukNr9a13MILORf.png!thumbnail)
+![图片](https://uploader.shimo.im/f/LriwTvAyXYc1Oa8N.png!thumbnail)
+---
+![图片](https://uploader.shimo.im/f/70sCgcfKc1AzgfFp.png!thumbnail)
+![图片](https://uploader.shimo.im/f/cwHphzWUzV0VEaVH.png!thumbnail)
+---
+    曾传志：
+![图片](https://uploader.shimo.im/f/GoNkXmx7kJgR4JBi.png!thumbnail)
+![图片](https://uploader.shimo.im/f/ICHy7DNnRaIxol0C.png!thumbnail)
+---
+    曹瞑桕：
+![图片](https://uploader.shimo.im/f/eE04xguhkWc8lh3E.png!thumbnail)
+![图片](https://uploader.shimo.im/f/ULOppnyRWBEKDA8W.png!thumbnail)
+![图片](https://uploader.shimo.im/f/8JhSc47uGREDbDA1.png!thumbnail)
+---
+![图片](https://uploader.shimo.im/f/Ppr74oaVTDMzUkdg.png!thumbnail)
+![图片](https://uploader.shimo.im/f/bGvmjSHKe4MTP0oD.png!thumbnail)
+---
+    全体练习：
+![图片](https://uploader.shimo.im/f/fv7iX1en7bwFw2nm.png!thumbnail)
+![图片](https://uploader.shimo.im/f/uu4HVxh1tKIHV6WV.png!thumbnail)
+![图片](https://uploader.shimo.im/f/bF7iVMaUGiUxtMht.png!thumbnail)
+
+---
+**手抄图**
+![图片](https://uploader.shimo.im/f/tHIA8pTQGLYXPHym.jpg!thumbnail)
+![图片](https://uploader.shimo.im/f/IgPhpYckgJIhcqlr.jpg!thumbnail)
+![图片](https://uploader.shimo.im/f/PxRL9mVql2kjhHKk.jpg!thumbnail)
+![图片](https://uploader.shimo.im/f/Kt8F9DU8Idwtvl5U.jpg!thumbnail)
+![图片](https://uploader.shimo.im/f/VKziLMkzbqUmTi0x.jpg!thumbnail)
+
